@@ -19,7 +19,9 @@
     "Binghamton",
     "Freeport",
     "Valley Stream"
-  ],
+  ]
+ },
+        {
   "California": [
     "Los Angeles",
     "San Diego",
@@ -234,7 +236,9 @@
     "Monrovia",
     "Los Banos",
     "Martinez"
-  ],
+  ]
+        },
+        {
   "Illinois": [
     "Chicago",
     "Aurora",
@@ -288,7 +292,9 @@
     "Park Ridge",
     "Addison",
     "Calumet City"
-  ],
+  ]
+        },
+        {
   "Texas": [
     "Houston",
     "San Antonio",
@@ -373,7 +379,9 @@
     "Texarkana",
     "Friendswood",
     "Weslaco"
-  ],
+  ]
+        },
+        {
   "Pennsylvania": [
     "Philadelphia",
     "Pittsburgh",
@@ -388,7 +396,9 @@
     "York",
     "State College",
     "Wilkes-Barre"
-  ],
+  ]
+        },
+        {
   "Arizona": [
     "Phoenix",
     "Tucson",
@@ -415,7 +425,9 @@
     "Prescott Valley",
     "Marana",
     "Apache Junction"
-  ],
+  ]
+        },
+        {
   "Florida": [
     "Jacksonville",
     "Miami",
@@ -489,7 +501,9 @@
     "Hallandale Beach",
     "Winter Garden",
     "Aventura"
-  ],
+  ]
+        },
+        {
   "Indiana": [
     "Indianapolis",
     "Fort Wayne",
@@ -513,7 +527,9 @@
     "Jeffersonville",
     "Columbus",
     "Portage"
-  ],
+  ]
+        },
+        {
   "Ohio": [
     "Columbus",
     "Cleveland",
@@ -549,7 +565,9 @@
     "Westerville",
     "Marion",
     "Grove City"
-  ],
+  ]
+        },
+        {
   "North Carolina": [
     "Charlotte",
     "Raleigh",
@@ -574,7 +592,9 @@
     "Apex",
     "Hickory",
     "Goldsboro"
-  ],
+  ]
+        },
+        {
   "Michigan": [
     "Detroit",
     "Grand Rapids",
@@ -607,7 +627,9 @@
     "Midland",
     "Lincoln Park",
     "Muskegon"
-  ],
+  ]
+        },
+        {
   "Tennessee": [
     "Memphis",
     "Nashville-Davidson",
@@ -626,7 +648,9 @@
     "Smyrna",
     "Germantown",
     "Brentwood"
-  ],
+  ]
+        },
+        {
   "Massachusetts": [
     "Boston",
     "Worcester",
@@ -1103,5 +1127,5 @@
   "Vermont": [
     "Burlington"
   ]
- }]
+ ]
 }
